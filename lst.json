@@ -10,6 +10,7 @@
     "meth/COOKIE2.py":"/meth/COOKIE2.py",
     "meth/COOKIE.py":"/meth/COOKIE.py",
     "meth/BROWSER.py":"/meth/BROWSER.py",
-    "meth/AMP.py":"/meth/AMP.py"
+    "meth/AMP.py":"/meth/AMP.py",
+    "meth/STOP.txt":"/meth/STOP.txt"
   }
 }
